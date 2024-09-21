@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd773752-9be3-4221-ab5f-5ad068c6f70d" name="Changes" comment="templates added.">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+    <list default="true" id="bd773752-9be3-4221-ab5f-5ad068c6f70d" name="Changes" comment="vote view changed.">
+      <change afterPath="$PROJECT_DIR$/polls/templates/polls/results.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
@@ -118,7 +117,7 @@
       <workItem from="1726395277401" duration="2795000" />
       <workItem from="1726545702445" duration="7529000" />
       <workItem from="1726631973457" duration="8381000" />
-      <workItem from="1726891050530" duration="2312000" />
+      <workItem from="1726891050530" duration="4849000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore added on">
       <option name="closed" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726312848404</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="vote view changed.">
+      <option name="closed" value="true" />
+      <created>1726899411256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726899411256</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +180,7 @@
     <MESSAGE value=".gitignore added on" />
     <MESSAGE value="README added." />
     <MESSAGE value="templates added." />
-    <option name="LAST_COMMIT_MESSAGE" value="templates added." />
+    <MESSAGE value="vote view changed." />
+    <option name="LAST_COMMIT_MESSAGE" value="vote view changed." />
   </component>
 </project>
